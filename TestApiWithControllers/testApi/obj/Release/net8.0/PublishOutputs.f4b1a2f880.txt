@@ -1,0 +1,16 @@
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/testApi
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/appsettings.Development.json
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/appsettings.json
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/testApi.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/testApi.runtimeconfig.json
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/testApi.pdb
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/Microsoft.EntityFrameworkCore.Relational.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/Npgsql.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/dunja/Desktop/TestApiWithControllers/testApi/bin/Release/net8.0/publish/testApi.deps.json
